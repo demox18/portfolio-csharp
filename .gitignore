@@ -1,0 +1,9 @@
+bin/
+obj/
+out/
+.DS_Store
+.graph-indexer/
+.claude/
+__pycache__/
+*.user
+.vs/
